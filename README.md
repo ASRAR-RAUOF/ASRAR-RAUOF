@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/6e6be8a5e5e71819a571c1f40878aa0bdb9008bf64c82d810f19f40005d845c5/68747470733a2f2f616e696d617465642d6769662d63726561746f722e636f6d2f696d616765732f30312f746f702d746f6f6c732d746f2d696d70726f76652d776f726b2d70726f6475637469766974792d74656b73756e5f38302e676966)]
 
 <h1 align="center">Hi 👋, I'm Asrar Rauof</h1>
-<h3 align="center">.Welcome to my GitHub profile! I’m a Computer Science graduate passionate about crafting innovative solutions and building impactful projects. I specialize in backend development, and automation software testing, with a strong focus on creating efficient and scalable solutions that solve real-world problems.</h3>
+<h3 align="center">Welcome to my GitHub profile! I’m a Computer Science graduate passionate about crafting innovative solutions and building impactful projects. I specialize in backend development, and automation software testing, with a strong focus on creating efficient and scalable solutions that solve real-world problems.</h3>
 
 
 
@@ -27,7 +27,7 @@
 <p align="left">
   <a href="mailto:shahasrar957@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/asrar-rauof-06a53128b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ASRAR-RAUOF" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  </a>
 </p>
 
 ---
@@ -115,8 +115,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+</a>
 </p>
 
 
