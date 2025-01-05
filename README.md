@@ -1,7 +1,9 @@
 [![MasterHead](https://camo.githubusercontent.com/6e6be8a5e5e71819a571c1f40878aa0bdb9008bf64c82d810f19f40005d845c5/68747470733a2f2f616e696d617465642d6769662d63726561746f722e636f6d2f696d616765732f30312f746f702d746f6f6c732d746f2d696d70726f76652d776f726b2d70726f6475637469766974792d74656b73756e5f38302e676966)]
 
 <h1 align="center">Hi 👋, I'm Asrar Rauof</h1>
-<h3 align="center">Welcome to my GitHub profile! I’m a Computer Science graduate passionate about crafting innovative solutions and building impactful projects. Here, you’ll find repositories showcasing my skills in backend development, machine learning, and software testing.</h3>
+<h3 align="center">.Welcome to my GitHub profile! I’m a Computer Science graduate passionate about crafting innovative solutions and building impactful projects. I specialize in backend development, and automation software testing, with a strong focus on creating efficient and scalable solutions that solve real-world problems.</h3>
+
+
 
 ---
 
@@ -42,8 +44,20 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a> 
   
   <!-- Frameworks & Libraries -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
@@ -56,9 +70,7 @@
   <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="Rest Assured" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
+  
   
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -72,6 +84,19 @@
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="JIRA" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="40" height="40"/>
@@ -89,6 +114,10 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40"/>
+  </a>
 </p>
+
 
 
